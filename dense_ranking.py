@@ -19,6 +19,6 @@ def climbingLeaderboard(ranked, player):
 
 
 # Example big data case
-ranked = [100, 90, 90, 80, 75, 60, 60, 50, 50, 45, 40, 30, 20, 10, 5]
-player = [50, 65, 77, 90, 102]
+ranked = [100, 90, 90, 80, 75, 60, 60, 50, 50]
+player = [50, 65, 77, 90, 102, 10, 12]
 print(climbingLeaderboard(ranked, player))
